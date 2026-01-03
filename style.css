@@ -1,0 +1,49 @@
+body {
+    font-family: "Times New Roman", serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    line-height: 1.7;
+}
+
+header {
+    background-color: #1e293b;
+    color: white;
+    text-align: center;
+    padding: 35px;
+}
+
+.subtitle {
+    font-style: italic;
+}
+
+header button {
+    margin-top: 15px;
+    padding: 10px 25px;
+    font-size: 16px;
+    background-color: #38bdf8;
+    border: none;
+    cursor: pointer;
+}
+
+header button:hover {
+    background-color: #0ea5e9;
+}
+
+main {
+    background: white;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 45px;
+}
+
+h1, h2 {
+    color: #1e293b;
+}
+
+section {
+    margin-bottom: 35px;
+}
+
+ol {
+    padding-left: 20px;
+}
